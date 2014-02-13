@@ -1,4 +1,11 @@
-# Myriel
+# About en.ja Quote
+
+I always use quotes for my presentation.
+And I always translate same quotes over and over.
+So this site is build to prevent that.
+You can use my translated quote if you like.
+
+# About Myriel
 
 Myriel is a very minimum yet flexible blog boilerplate for [Hugo](http://hugo.spf13.com/).
 

@@ -2,7 +2,7 @@
 <html>
   <head prefix="og: http://ogp.me/ns#">
     <meta charset="utf-8">
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <title>{{ .Title }} Quote from {{ .Params.from }} | {{ .Site.Title }}</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ .Description }}">
     {{ template "chrome/system/header/social/index.html" . }}
