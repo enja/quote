@@ -1,3 +1,10 @@
+.pager {
+  text-align: center;
+}
+.pager a {
+  display: block;
+}
+
 .backtohome {
   text-align: center;
 }

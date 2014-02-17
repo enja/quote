@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 var fs = require('fs');
-var argv = require('minimist')(process.argv.slice(2));
 
 function getDate(format) {
   var today = new Date();
@@ -27,7 +26,7 @@ function getDate(format) {
 }
 
 var write = (function() {
-  var title = argv.t;
+  var title = process.env.npm_config_title;
   var date = getDate('yyyymmdd');
   var filename = title.replace(/\s+/g, '-').toLowerCase() + '.md';
   var path = "content/post/";

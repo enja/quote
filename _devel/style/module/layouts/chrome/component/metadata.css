@@ -2,7 +2,7 @@
   margin: auto auto 1.5em;
 }
 .metadata .author:before {
-  content: "Quote by ";
+  content: "Quote from ";
   display: inline;
 }
 .metadata .pubdate {

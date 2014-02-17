@@ -20,9 +20,22 @@
           <h1 class="title">{{ .Title }}</h1>
           {{ template "chrome/component/common/metadata.html" . }}
           {{ .Content }}
+
+          <hr>
+
+          <nav class="pager p">
+            {{if .Next}}
+              <a class="previous" title="{{.Next.Title}}" href="{{.Next.Permalink}}">← {{.Next.Title}} </a>
+            {{end}}
+            {{if .Prev}}
+              <a class="next" title="{{.Prev.Title}}" href="{{.Prev.Permalink}}">{{.Prev.Title}} →</a>
+            {{end}}
+          </nav>
+
           <div class="backtohome">
             <a class="icon icon-home" href="/"></a>
           </div>
+
         </div>
       </article>
 
