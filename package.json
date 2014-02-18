@@ -14,7 +14,7 @@
     "pagekite": "pagekite.py 9000 true.pagekite.me",
     "test": "tape test/*.js",
     "build": "hugo",
-    "deploy": "aws s3 sync public s3://quote.enja.io --acl public-read"
+    "deploy": "aws s3 sync public s3://quote.enja.io --acl public-read",
     "write": "_devel/bin/write.js"
   },
   "repository": {

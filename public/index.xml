@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Recent Content | en.ja Quote</title>
-    <link>http://localhost:1313/index.xml</link>
+    <link>http://quote.enja.io/index.xml</link>
     <language>en-us</language>
     <author>Yuya Saito</author>
     <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
     
     <item>
       <title>Basically, a CSS object is a repeating visual pattern...</title>
-      <link>http://localhost:1313/post/a-css-object-is-a-repeating-visual-pattern</link>
+      <link>http://quote.enja.io/post/a-css-object-is-a-repeating-visual-pattern</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/a-css-object-is-a-repeating-visual-pattern</guid>
+      <guid>http://quote.enja.io/post/a-css-object-is-a-repeating-visual-pattern</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Basically, a CSS “object” is a repeating visual pattern, which can be abstracted into an independent snippet of HTML, CSS, and possibly JavaScript. Once created, an object can then be reused throughout a site.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>Code is read much more often than...</title>
-      <link>http://localhost:1313/post/code-is-read-much-more-often-than</link>
+      <link>http://quote.enja.io/post/code-is-read-much-more-often-than</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/code-is-read-much-more-often-than</guid>
+      <guid>http://quote.enja.io/post/code-is-read-much-more-often-than</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Code is read much more often than it is written, so plan accordingly.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -45,10 +45,10 @@
     
     <item>
       <title>If you want to be doing the same things...</title>
-      <link>http://localhost:1313/post/if-you-want-to-be-doing-the-same-things</link>
+      <link>http://quote.enja.io/post/if-you-want-to-be-doing-the-same-things</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/if-you-want-to-be-doing-the-same-things</guid>
+      <guid>http://quote.enja.io/post/if-you-want-to-be-doing-the-same-things</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;￼If you want to be doing the same things for the next 10 years, you&amp;rsquo;re in the wrong job.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -65,10 +65,10 @@
     
     <item>
       <title>As a web developer, learning the internals of...</title>
-      <link>http://localhost:1313/post/learning-the-internals-of-browser-operations-helps</link>
+      <link>http://quote.enja.io/post/learning-the-internals-of-browser-operations-helps</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/learning-the-internals-of-browser-operations-helps</guid>
+      <guid>http://quote.enja.io/post/learning-the-internals-of-browser-operations-helps</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;￼As a web developer, learning the internals of browser operations helps you make better decisions and know the justifications behind development best practices.
 While this is a rather lengthy document, we recommend you spend some time digging in; we guarantee you&amp;rsquo;ll be glad you did.&lt;/p&gt;
@@ -85,10 +85,10 @@ While this is a rather lengthy document, we recommend you spend some time diggin
     
     <item>
       <title>There are risks and costs to a...</title>
-      <link>http://localhost:1313/post/there-are-risks-and-costs-to-a</link>
+      <link>http://quote.enja.io/post/there-are-risks-and-costs-to-a</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/there-are-risks-and-costs-to-a</guid>
+      <guid>http://quote.enja.io/post/there-are-risks-and-costs-to-a</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;There are risks and costs to a program of action, but they are far less than the long-range risks and costs of comfortable inaction.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -103,10 +103,10 @@ While this is a rather lengthy document, we recommend you spend some time diggin
     
     <item>
       <title>You can&#39;t connect the dots looking forward...</title>
-      <link>http://localhost:1313/post/you-cant-connect-the-dots-looking-forward</link>
+      <link>http://quote.enja.io/post/you-cant-connect-the-dots-looking-forward</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/you-cant-connect-the-dots-looking-forward</guid>
+      <guid>http://quote.enja.io/post/you-cant-connect-the-dots-looking-forward</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;￼You can&amp;rsquo;t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -121,10 +121,10 @@ While this is a rather lengthy document, we recommend you spend some time diggin
     
     <item>
       <title>To me, performance is a feature...</title>
-      <link>http://localhost:1313/post/to-me-performance-is-a-feature</link>
+      <link>http://quote.enja.io/post/to-me-performance-is-a-feature</link>
       <pubDate>Wed, 12 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/to-me-performance-is-a-feature</guid>
+      <guid>http://quote.enja.io/post/to-me-performance-is-a-feature</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;To me, performance is a feature […].&lt;br /&gt;
 I think there&amp;rsquo;s also a lesson to be learned here about the competitive landscape of the public internet, where there are two kinds of websites: the quick and the dead.&lt;/p&gt;
