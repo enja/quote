@@ -39,6 +39,7 @@ var write = (function() {
     stream.write('description: "" \n');
     stream.write('date: "' + date + '"\n');
     stream.write('author: "Yuya Saito"\n');
+    stream.write('from: ""\n');
     stream.write('---\n');
   });
 })();

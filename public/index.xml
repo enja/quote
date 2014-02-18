@@ -8,6 +8,105 @@
     <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
     
     <item>
+      <title>Not all semantics need to be content-derived...</title>
+      <link>http://quote.enja.io/post/not-all-semantics-need-to-be-content-derived...</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://quote.enja.io/post/not-all-semantics-need-to-be-content-derived...</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;[…][N]ot all semantics need to be content-derived. Class names cannot be “unsemantic”. Whatever names are being used: they have meaning, they have purpose. Class name semantics can be different to those of HTML elements.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;- Gallagher, Nicolas. &amp;ldquo;About HTML semantics and front-end architecture&amp;rdquo; nicolasgallagher.com. &lt;a href=&#34;http://nicolasgallagher.com/about-html-semantics-front-end-architecture/&#34;&gt;http://nicolasgallagher.com/about-html-semantics-front-end-architecture/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;￼セマンティックがすべてコンテンツ派生である必要はない。クラス名に「セマンティックではない」状態はない。どんな名前が使われようと、それらには意味があり、目的がある。クラス名のセマンティック性はHTML要素のそれと異なることもありえる。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simply presenting flat image comps...</title>
+      <link>http://quote.enja.io/post/simply-presenting-flat-image-comps...</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://quote.enja.io/post/simply-presenting-flat-image-comps...</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Simply presenting flat image comps is by no means enough - it’s only the start… As layouts become more adaptable, flexible and context-specific, so individual components will become the focus of our design. It is therefore essential to get the foundational aspects of our designs right, and style guides allow us to do that.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;- Lloyd, Paul. &amp;ldquo;Styleguides for the Web&amp;rdquo; Paul Robert Lloyd. &lt;a href=&#34;http://paulrobertlloyd.com/2010/12/styleguides_for_the_web/&#34;&gt;http://paulrobertlloyd.com/2010/12/styleguides_for_the_web/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;(ウェブサイトを)平坦な画像のコンプで単純に表現するのはもはや十分とは言えない。
+レイアウトはアダプタブルでフレキシブルでコンテンツにフォーカスがおかれていく中で、それは単にスタート地点でしかなく、個別のコンポーネントにこそデザインのフォーカスであるようになっていくべきだろう。&lt;br /&gt;
+だからこそ、デザインの基礎的な部分について正しく理解しておく必要がある。スタイルガイドはそれを行う手助けをしてくれる。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The most dangerous thought you can have...</title>
+      <link>http://quote.enja.io/post/the-most-dangerous-thought-you-can-have...</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://quote.enja.io/post/the-most-dangerous-thought-you-can-have...</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The most dangerous thought you can have as a creative person is to think you know what you&amp;rsquo;re doing.
+Learn tools, and use tools, but don&amp;rsquo;t accept tools. Always distrust them; always be alert for alternative ways of thinking.
+￼
+- Victor, Bret. &amp;ldquo;The Future of Programming.&amp;rdquo; DBX Conference. Fort Mason, San Francisco. 9 July 2013. Speech.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;想像的であり続けるために避けなければならないことは、自分がやっていることを知っていると思い込むことです。&lt;br /&gt;
+ツールを学び、ツールを使いこなす。しかし、ツールの全てを受け入れてはならない。&lt;br /&gt;
+どんな時でも別の視点で考えるようにするべきだ。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Each pattern describes a problem...</title>
+      <link>http://quote.enja.io/post/each-pattern-describes-a-problem...</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://quote.enja.io/post/each-pattern-describes-a-problem...</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Each pattern describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such way that you can use this solution a million times over, without ever doing it the same way twice.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;- Alexander, Christopher, Sara Ishikawa, and Murray Silverstein. A pattern language: towns, buildings, construction. New York: Oxford University Press, 1977. Print.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;パターンとはそれぞれ我々が生きている環境の中で何度も繰り返し発生する問題を説明するものであり、それらの問題に対するコアとなる解決を説明するものでもあります。コアとなる解決とはその解決方法を同じことを繰り返さず、数百万回でも利用できるものです。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why do we fall, sir...</title>
+      <link>http://quote.enja.io/post/why-do-we-fall-sir...</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://quote.enja.io/post/why-do-we-fall-sir...</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Why do we fall, sir?
+So that we can learn to pick ourselves up.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;- Batman Begins. Dir. Christopher Nolan. By Christopher Nolan and David S. Goyer. Prod. Larry J. Franco. Perf. Christian Bale, Michael Caine, Liam Neeson, and Katie Holmes. Warner Brothers, 2005.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;なぜ人は失敗するのでしょうか？&lt;br /&gt;
+それはそうすることでどう立ち直るかを学べるからです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Basically, a CSS object is a repeating visual pattern...</title>
       <link>http://quote.enja.io/post/a-css-object-is-a-repeating-visual-pattern</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
