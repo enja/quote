@@ -25,7 +25,7 @@ function getDate(format) {
   }
 }
 
-var write = (function() {
+(function() {
   var title = process.env.npm_config_title;
   var date = getDate('yyyymmdd');
   var filename = title.replace(/\s+/g, '-').toLowerCase() + '.md';
@@ -40,6 +40,7 @@ var write = (function() {
     stream.write('date: "' + date + '"\n');
     stream.write('author: "Yuya Saito"\n');
     stream.write('from: ""\n');
+    stream.write('key: []\n');
     stream.write('---\n');
   });
 })();

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Posts | en.ja Quote</title>
-    <link>http://quote.enja.io/post.xml</link>
+    <link>http://quote.enja.io/post/index.xml</link>
     <language>en-us</language>
     <author>Yuya Saito</author>
     <updated>2014-02-18 00:00:00 &#43;0000 UTC</updated>
