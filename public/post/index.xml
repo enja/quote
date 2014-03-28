@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Posts | en.ja Quote</title>
-    <link>http://quote.enja.io/post/index.xml</link>
+    <link>http://localhost:1313/post/index.xml</link>
     <language>en-us</language>
     <author>Yuya Saito</author>
     <updated>2014-02-18 00:00:00 &#43;0000 UTC</updated>
     
     <item>
       <title>Not all semantics need to be content-derived...</title>
-      <link>http://quote.enja.io/post/not-all-semantics-need-to-be-content-derived...</link>
+      <link>http://localhost:1313/post/not-all-semantics-need-to-be-content-derived...</link>
       <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/not-all-semantics-need-to-be-content-derived...</guid>
+      <guid>http://localhost:1313/post/not-all-semantics-need-to-be-content-derived...</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;[…][N]ot all semantics need to be content-derived. Class names cannot be “unsemantic”. Whatever names are being used: they have meaning, they have purpose. Class name semantics can be different to those of HTML elements.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>The most dangerous thought you can have...</title>
-      <link>http://quote.enja.io/post/the-most-dangerous-thought-you-can-have...</link>
+      <link>http://localhost:1313/post/the-most-dangerous-thought-you-can-have...</link>
       <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/the-most-dangerous-thought-you-can-have...</guid>
+      <guid>http://localhost:1313/post/the-most-dangerous-thought-you-can-have...</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;The most dangerous thought you can have as a creative person is to think you know what you&amp;rsquo;re doing.
 Learn tools, and use tools, but don&amp;rsquo;t accept tools. Always distrust them; always be alert for alternative ways of thinking.
@@ -48,10 +48,10 @@ Learn tools, and use tools, but don&amp;rsquo;t accept tools. Always distrust th
     
     <item>
       <title>Each pattern describes a problem...</title>
-      <link>http://quote.enja.io/post/each-pattern-describes-a-problem...</link>
+      <link>http://localhost:1313/post/each-pattern-describes-a-problem...</link>
       <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/each-pattern-describes-a-problem...</guid>
+      <guid>http://localhost:1313/post/each-pattern-describes-a-problem...</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Each pattern describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such way that you can use this solution a million times over, without ever doing it the same way twice.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -68,10 +68,10 @@ Learn tools, and use tools, but don&amp;rsquo;t accept tools. Always distrust th
     
     <item>
       <title>Why do we fall, sir...</title>
-      <link>http://quote.enja.io/post/why-do-we-fall-sir...</link>
+      <link>http://localhost:1313/post/why-do-we-fall-sir...</link>
       <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/why-do-we-fall-sir...</guid>
+      <guid>http://localhost:1313/post/why-do-we-fall-sir...</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Why do we fall, sir?
 So that we can learn to pick ourselves up.&lt;/p&gt;
@@ -88,10 +88,10 @@ So that we can learn to pick ourselves up.&lt;/p&gt;
     
     <item>
       <title>Simply presenting flat image comps...</title>
-      <link>http://quote.enja.io/post/simply-presenting-flat-image-comps...</link>
+      <link>http://localhost:1313/post/simply-presenting-flat-image-comps...</link>
       <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/simply-presenting-flat-image-comps...</guid>
+      <guid>http://localhost:1313/post/simply-presenting-flat-image-comps...</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Simply presenting flat image comps is by no means enough - it’s only the start… As layouts become more adaptable, flexible and context-specific, so individual components will become the focus of our design. It is therefore essential to get the foundational aspects of our designs right, and style guides allow us to do that.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -108,10 +108,10 @@ So that we can learn to pick ourselves up.&lt;/p&gt;
     
     <item>
       <title>You can&#39;t connect the dots looking forward...</title>
-      <link>http://quote.enja.io/post/you-cant-connect-the-dots-looking-forward</link>
+      <link>http://localhost:1313/post/you-cant-connect-the-dots-looking-forward</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/you-cant-connect-the-dots-looking-forward</guid>
+      <guid>http://localhost:1313/post/you-cant-connect-the-dots-looking-forward</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;￼You can&amp;rsquo;t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -126,10 +126,10 @@ So that we can learn to pick ourselves up.&lt;/p&gt;
     
     <item>
       <title>Code is read much more often than...</title>
-      <link>http://quote.enja.io/post/code-is-read-much-more-often-than</link>
+      <link>http://localhost:1313/post/code-is-read-much-more-often-than</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/code-is-read-much-more-often-than</guid>
+      <guid>http://localhost:1313/post/code-is-read-much-more-often-than</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Code is read much more often than it is written, so plan accordingly.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -144,10 +144,10 @@ So that we can learn to pick ourselves up.&lt;/p&gt;
     
     <item>
       <title>Basically, a CSS object is a repeating visual pattern...</title>
-      <link>http://quote.enja.io/post/a-css-object-is-a-repeating-visual-pattern</link>
+      <link>http://localhost:1313/post/a-css-object-is-a-repeating-visual-pattern</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/a-css-object-is-a-repeating-visual-pattern</guid>
+      <guid>http://localhost:1313/post/a-css-object-is-a-repeating-visual-pattern</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Basically, a CSS “object” is a repeating visual pattern, which can be abstracted into an independent snippet of HTML, CSS, and possibly JavaScript. Once created, an object can then be reused throughout a site.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -162,10 +162,10 @@ So that we can learn to pick ourselves up.&lt;/p&gt;
     
     <item>
       <title>If you want to be doing the same things...</title>
-      <link>http://quote.enja.io/post/if-you-want-to-be-doing-the-same-things</link>
+      <link>http://localhost:1313/post/if-you-want-to-be-doing-the-same-things</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/if-you-want-to-be-doing-the-same-things</guid>
+      <guid>http://localhost:1313/post/if-you-want-to-be-doing-the-same-things</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;￼If you want to be doing the same things for the next 10 years, you&amp;rsquo;re in the wrong job.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -182,10 +182,10 @@ So that we can learn to pick ourselves up.&lt;/p&gt;
     
     <item>
       <title>As a web developer, learning the internals of...</title>
-      <link>http://quote.enja.io/post/learning-the-internals-of-browser-operations-helps</link>
+      <link>http://localhost:1313/post/learning-the-internals-of-browser-operations-helps</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/learning-the-internals-of-browser-operations-helps</guid>
+      <guid>http://localhost:1313/post/learning-the-internals-of-browser-operations-helps</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;￼As a web developer, learning the internals of browser operations helps you make better decisions and know the justifications behind development best practices.
 While this is a rather lengthy document, we recommend you spend some time digging in; we guarantee you&amp;rsquo;ll be glad you did.&lt;/p&gt;
@@ -202,10 +202,10 @@ While this is a rather lengthy document, we recommend you spend some time diggin
     
     <item>
       <title>There are risks and costs to a...</title>
-      <link>http://quote.enja.io/post/there-are-risks-and-costs-to-a</link>
+      <link>http://localhost:1313/post/there-are-risks-and-costs-to-a</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/there-are-risks-and-costs-to-a</guid>
+      <guid>http://localhost:1313/post/there-are-risks-and-costs-to-a</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;There are risks and costs to a program of action, but they are far less than the long-range risks and costs of comfortable inaction.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -220,10 +220,10 @@ While this is a rather lengthy document, we recommend you spend some time diggin
     
     <item>
       <title>To me, performance is a feature...</title>
-      <link>http://quote.enja.io/post/to-me-performance-is-a-feature</link>
+      <link>http://localhost:1313/post/to-me-performance-is-a-feature</link>
       <pubDate>Wed, 12 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/to-me-performance-is-a-feature</guid>
+      <guid>http://localhost:1313/post/to-me-performance-is-a-feature</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;To me, performance is a feature […].&lt;br /&gt;
 I think there&amp;rsquo;s also a lesson to be learned here about the competitive landscape of the public internet, where there are two kinds of websites: the quick and the dead.&lt;/p&gt;
