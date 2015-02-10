@@ -2,35 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Recent Content | en.ja Quote</title>
-    <link>http://localhost:1313/index.xml</link>
+    <link>http://quote.enja.io/index.xml</link>
     <language>en-us</language>
     <author>Yuya Saito</author>
     <updated>2015-02-10 00:00:00 &#43;0000 UTC</updated>
     
     <item>
-      <title>￼Every line of CSS you write is a suggestion...</title>
-      <link>http://localhost:1313/post/every-line-of-css-you-write-is-a-suggestion</link>
-      <pubDate>Tue, 10 Feb 2015 00:00:00 UTC</pubDate>
-      <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/every-line-of-css-you-write-is-a-suggestion</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;￼￼Every line of CSS you write is a suggestion.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;- Keith, Jeremy. &amp;ldquo;Celebrating CSS&amp;rdquo; Adactio. &lt;a href=&#34;https://adactio.com/journal/7653&#34;&gt;https://adactio.com/journal/7653&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;記述したCSSの一行一行は提案である。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>￼Programming would be pretty boring...</title>
-      <link>http://localhost:1313/post/programming-would-be-pretty-boring-if-everyone-agreed</link>
+      <link>http://quote.enja.io/post/programming-would-be-pretty-boring-if-everyone-agreed</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/programming-would-be-pretty-boring-if-everyone-agreed</guid>
+      <guid>http://quote.enja.io/post/programming-would-be-pretty-boring-if-everyone-agreed</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;￼￼Programming would be pretty boring if everyone agreed.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -45,10 +27,10 @@
     
     <item>
       <title>￼There are only two hard things...</title>
-      <link>http://localhost:1313/post/there-are-only-two-hard-things-in-computer-science-cache-invalidation-and-naming-things</link>
+      <link>http://quote.enja.io/post/there-are-only-two-hard-things-in-computer-science-cache-invalidation-and-naming-things</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/there-are-only-two-hard-things-in-computer-science-cache-invalidation-and-naming-things</guid>
+      <guid>http://quote.enja.io/post/there-are-only-two-hard-things-in-computer-science-cache-invalidation-and-naming-things</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;￼￼There are only two hard things in Computer Science: cache invalidation and naming things.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -62,29 +44,11 @@
     </item>
     
     <item>
-      <title>￼A simple syntax doesn&#39;t make an easy...</title>
-      <link>http://localhost:1313/post/a-simple-syntax-doesnt-make-an-easy-language</link>
-      <pubDate>Tue, 10 Feb 2015 00:00:00 UTC</pubDate>
-      <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/a-simple-syntax-doesnt-make-an-easy-language</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;￼￼[A] simple syntax doesn&amp;rsquo;t make an easy language.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;- Hugo, Giraudel. &amp;ldquo;CSS Is Easy.&amp;rdquo; HugoGIRAUDEL.com. Hugo Giraudel, 15 Apr. 2013. Web. 10 Feb. 2015. &lt;a href=&#34;http://hugogiraudel.com/2013/04/15/css-is-easy/&#34;&gt;http://hugogiraudel.com/2013/04/15/css-is-easy/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;単純なシンタックスだからといって簡単な言語だとは限らない。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A set of PSDs can&#39;t encapsulate the entire web...</title>
-      <link>http://localhost:1313/post/a-set-of-psds-cant-encapsulate-the-entire-web</link>
+      <link>http://quote.enja.io/post/a-set-of-psds-cant-encapsulate-the-entire-web</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/a-set-of-psds-cant-encapsulate-the-entire-web</guid>
+      <guid>http://quote.enja.io/post/a-set-of-psds-cant-encapsulate-the-entire-web</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;￼￼A set of PSDs can&amp;rsquo;t encapsulate the entire web.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -98,49 +62,47 @@
     </item>
     
     <item>
-      <title>Not all semantics need to be content-derived...</title>
-      <link>http://localhost:1313/post/not-all-semantics-need-to-be-content-derived...</link>
-      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
+      <title>￼A simple syntax doesn&#39;t make an easy...</title>
+      <link>http://quote.enja.io/post/a-simple-syntax-doesnt-make-an-easy-language</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/not-all-semantics-need-to-be-content-derived...</guid>
+      <guid>http://quote.enja.io/post/a-simple-syntax-doesnt-make-an-easy-language</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;[…][N]ot all semantics need to be content-derived. Class names cannot be “unsemantic”. Whatever names are being used: they have meaning, they have purpose. Class name semantics can be different to those of HTML elements.&lt;/p&gt;
+&lt;p&gt;￼￼[A] simple syntax doesn&amp;rsquo;t make an easy language.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;- Gallagher, Nicolas. &amp;ldquo;About HTML semantics and front-end architecture&amp;rdquo; nicolasgallagher.com. &lt;a href=&#34;http://nicolasgallagher.com/about-html-semantics-front-end-architecture/&#34;&gt;http://nicolasgallagher.com/about-html-semantics-front-end-architecture/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;- Hugo, Giraudel. &amp;ldquo;CSS Is Easy.&amp;rdquo; HugoGIRAUDEL.com. Hugo Giraudel, 15 Apr. 2013. Web. 10 Feb. 2015. &lt;a href=&#34;http://hugogiraudel.com/2013/04/15/css-is-easy/&#34;&gt;http://hugogiraudel.com/2013/04/15/css-is-easy/&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;￼セマンティックがすべてコンテンツ派生である必要はない。クラス名に「セマンティックではない」状態はない。どんな名前が使われようと、それらには意味があり、目的がある。クラス名のセマンティック性はHTML要素のそれと異なることもありえる。&lt;/p&gt;
+&lt;p&gt;単純なシンタックスだからといって簡単な言語だとは限らない。&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Simply presenting flat image comps...</title>
-      <link>http://localhost:1313/post/simply-presenting-flat-image-comps...</link>
-      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
+      <title>￼Every line of CSS you write is a suggestion...</title>
+      <link>http://quote.enja.io/post/every-line-of-css-you-write-is-a-suggestion</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/simply-presenting-flat-image-comps...</guid>
+      <guid>http://quote.enja.io/post/every-line-of-css-you-write-is-a-suggestion</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Simply presenting flat image comps is by no means enough - it’s only the start… As layouts become more adaptable, flexible and context-specific, so individual components will become the focus of our design. It is therefore essential to get the foundational aspects of our designs right, and style guides allow us to do that.&lt;/p&gt;
+&lt;p&gt;￼￼Every line of CSS you write is a suggestion.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;- Lloyd, Paul. &amp;ldquo;Styleguides for the Web&amp;rdquo; Paul Robert Lloyd. &lt;a href=&#34;http://paulrobertlloyd.com/2010/12/styleguides_for_the_web/&#34;&gt;http://paulrobertlloyd.com/2010/12/styleguides_for_the_web/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;- Keith, Jeremy. &amp;ldquo;Celebrating CSS&amp;rdquo; Adactio. &lt;a href=&#34;https://adactio.com/journal/7653&#34;&gt;https://adactio.com/journal/7653&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;(ウェブサイトを)平坦な画像のコンプで単純に表現するのはもはや十分とは言えない。
-レイアウトがアダプタブルでフレキシブルでコンテンツにフォーカスがおかれていく中で、それは単にスタート地点でしかなく、個別のコンポーネントにこそデザインのフォーカスするようになっていくべきだろう。&lt;br /&gt;
-だからこそ、デザインの基礎的な部分について正しく理解しておく必要があり、スタイルガイドはそれを行う手助けをしてくれる。&lt;/p&gt;
+&lt;p&gt;記述したCSSの一行一行は提案である。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The most dangerous thought you can have...</title>
-      <link>http://localhost:1313/post/the-most-dangerous-thought-you-can-have...</link>
+      <link>http://quote.enja.io/post/the-most-dangerous-thought-you-can-have...</link>
       <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/the-most-dangerous-thought-you-can-have...</guid>
+      <guid>http://quote.enja.io/post/the-most-dangerous-thought-you-can-have...</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;The most dangerous thought you can have as a creative person is to think you know what you&amp;rsquo;re doing.
 Learn tools, and use tools, but don&amp;rsquo;t accept tools. Always distrust them; always be alert for alternative ways of thinking.
@@ -158,10 +120,10 @@ Learn tools, and use tools, but don&amp;rsquo;t accept tools. Always distrust th
     
     <item>
       <title>Each pattern describes a problem...</title>
-      <link>http://localhost:1313/post/each-pattern-describes-a-problem...</link>
+      <link>http://quote.enja.io/post/each-pattern-describes-a-problem...</link>
       <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/each-pattern-describes-a-problem...</guid>
+      <guid>http://quote.enja.io/post/each-pattern-describes-a-problem...</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Each pattern describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such way that you can use this solution a million times over, without ever doing it the same way twice.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -177,11 +139,29 @@ Learn tools, and use tools, but don&amp;rsquo;t accept tools. Always distrust th
     </item>
     
     <item>
-      <title>Why do we fall, sir...</title>
-      <link>http://localhost:1313/post/why-do-we-fall-sir...</link>
+      <title>Not all semantics need to be content-derived...</title>
+      <link>http://quote.enja.io/post/not-all-semantics-need-to-be-content-derived...</link>
       <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/why-do-we-fall-sir...</guid>
+      <guid>http://quote.enja.io/post/not-all-semantics-need-to-be-content-derived...</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;[…][N]ot all semantics need to be content-derived. Class names cannot be “unsemantic”. Whatever names are being used: they have meaning, they have purpose. Class name semantics can be different to those of HTML elements.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;- Gallagher, Nicolas. &amp;ldquo;About HTML semantics and front-end architecture&amp;rdquo; nicolasgallagher.com. &lt;a href=&#34;http://nicolasgallagher.com/about-html-semantics-front-end-architecture/&#34;&gt;http://nicolasgallagher.com/about-html-semantics-front-end-architecture/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;￼セマンティックがすべてコンテンツ派生である必要はない。クラス名に「セマンティックではない」状態はない。どんな名前が使われようと、それらには意味があり、目的がある。クラス名のセマンティック性はHTML要素のそれと異なることもありえる。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why do we fall, sir...</title>
+      <link>http://quote.enja.io/post/why-do-we-fall-sir...</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://quote.enja.io/post/why-do-we-fall-sir...</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Why do we fall, sir?
 So that we can learn to pick ourselves up.&lt;/p&gt;
@@ -197,29 +177,49 @@ So that we can learn to pick ourselves up.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Code is read much more often than...</title>
-      <link>http://localhost:1313/post/code-is-read-much-more-often-than</link>
-      <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
+      <title>Simply presenting flat image comps...</title>
+      <link>http://quote.enja.io/post/simply-presenting-flat-image-comps...</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/code-is-read-much-more-often-than</guid>
+      <guid>http://quote.enja.io/post/simply-presenting-flat-image-comps...</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Code is read much more often than it is written, so plan accordingly.&lt;/p&gt;
+&lt;p&gt;Simply presenting flat image comps is by no means enough - it’s only the start… As layouts become more adaptable, flexible and context-specific, so individual components will become the focus of our design. It is therefore essential to get the foundational aspects of our designs right, and style guides allow us to do that.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;- Chen, Raymond. &amp;ldquo;Code is read much more often than it is written, so plan accordingly&amp;rdquo; The Old New Thing. &lt;a href=&#34;http://blogs.msdn.com/b/oldnewthing/archive/2007/04/06/2036150.aspx&#34;&gt;http://blogs.msdn.com/b/oldnewthing/archive/2007/04/06/2036150.aspx&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;- Lloyd, Paul. &amp;ldquo;Styleguides for the Web&amp;rdquo; Paul Robert Lloyd. &lt;a href=&#34;http://paulrobertlloyd.com/2010/12/styleguides_for_the_web/&#34;&gt;http://paulrobertlloyd.com/2010/12/styleguides_for_the_web/&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;￼コードは書く機会より読む機会の方が圧倒的に多い。だからこそ、しっかりと計画するべきだ。&lt;/p&gt;
+&lt;p&gt;(ウェブサイトを)平坦な画像のコンプで単純に表現するのはもはや十分とは言えない。
+レイアウトがアダプタブルでフレキシブルでコンテンツにフォーカスがおかれていく中で、それは単にスタート地点でしかなく、個別のコンポーネントにこそデザインのフォーカスするようになっていくべきだろう。&lt;br /&gt;
+だからこそ、デザインの基礎的な部分について正しく理解しておく必要があり、スタイルガイドはそれを行う手助けをしてくれる。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Basically, a CSS object is a repeating visual pattern...</title>
+      <link>http://quote.enja.io/post/a-css-object-is-a-repeating-visual-pattern</link>
+      <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://quote.enja.io/post/a-css-object-is-a-repeating-visual-pattern</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Basically, a CSS “object” is a repeating visual pattern, which can be abstracted into an independent snippet of HTML, CSS, and possibly JavaScript. Once created, an object can then be reused throughout a site.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;- Sullivan, Nicole. &amp;ldquo;Object Oriented CSS&amp;rdquo; stubbornella / oocss. &lt;a href=&#34;https://github.com/stubbornella/oocss/wiki&#34;&gt;https://github.com/stubbornella/oocss/wiki&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;基本的にCSSにおいて、ある「オブジェクト」とは繰り返されるビジュアルパターンであり、HTMLやCSS、もしかするとJavaScriptで書かれた独立したスニペットとして抽象化できるものである。また一度生成したオブジェクトは サイト内で再利用できるものである。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>There are risks and costs to a...</title>
-      <link>http://localhost:1313/post/there-are-risks-and-costs-to-a</link>
+      <link>http://quote.enja.io/post/there-are-risks-and-costs-to-a</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/there-are-risks-and-costs-to-a</guid>
+      <guid>http://quote.enja.io/post/there-are-risks-and-costs-to-a</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;There are risks and costs to a program of action, but they are far less than the long-range risks and costs of comfortable inaction.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -234,10 +234,10 @@ So that we can learn to pick ourselves up.&lt;/p&gt;
     
     <item>
       <title>If you want to be doing the same things...</title>
-      <link>http://localhost:1313/post/if-you-want-to-be-doing-the-same-things</link>
+      <link>http://quote.enja.io/post/if-you-want-to-be-doing-the-same-things</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/if-you-want-to-be-doing-the-same-things</guid>
+      <guid>http://quote.enja.io/post/if-you-want-to-be-doing-the-same-things</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;￼If you want to be doing the same things for the next 10 years, you&amp;rsquo;re in the wrong job.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -253,29 +253,29 @@ So that we can learn to pick ourselves up.&lt;/p&gt;
     </item>
     
     <item>
-      <title>You can&#39;t connect the dots looking forward...</title>
-      <link>http://localhost:1313/post/you-cant-connect-the-dots-looking-forward</link>
+      <title>Code is read much more often than...</title>
+      <link>http://quote.enja.io/post/code-is-read-much-more-often-than</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/you-cant-connect-the-dots-looking-forward</guid>
+      <guid>http://quote.enja.io/post/code-is-read-much-more-often-than</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;￼You can&amp;rsquo;t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.&lt;/p&gt;
+&lt;p&gt;Code is read much more often than it is written, so plan accordingly.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;- Jobs, Steve. &amp;ldquo;Stanford Commencement Adress.&amp;rdquo; 12 June 2005. Speech.&lt;/p&gt;
+&lt;p&gt;- Chen, Raymond. &amp;ldquo;Code is read much more often than it is written, so plan accordingly&amp;rdquo; The Old New Thing. &lt;a href=&#34;http://blogs.msdn.com/b/oldnewthing/archive/2007/04/06/2036150.aspx&#34;&gt;http://blogs.msdn.com/b/oldnewthing/archive/2007/04/06/2036150.aspx&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;￼先を読んで点と点をつなぐことはできません。後から振り返って初めてできるのです。それらの点は必ずどこかの未来でつながることを信じなければならないのです。&lt;/p&gt;
+&lt;p&gt;￼コードは書く機会より読む機会の方が圧倒的に多い。だからこそ、しっかりと計画するべきだ。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>As a web developer, learning the internals of...</title>
-      <link>http://localhost:1313/post/learning-the-internals-of-browser-operations-helps</link>
+      <link>http://quote.enja.io/post/learning-the-internals-of-browser-operations-helps</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/learning-the-internals-of-browser-operations-helps</guid>
+      <guid>http://quote.enja.io/post/learning-the-internals-of-browser-operations-helps</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;￼As a web developer, learning the internals of browser operations helps you make better decisions and know the justifications behind development best practices.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -289,29 +289,29 @@ So that we can learn to pick ourselves up.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Basically, a CSS object is a repeating visual pattern...</title>
-      <link>http://localhost:1313/post/a-css-object-is-a-repeating-visual-pattern</link>
+      <title>You can&#39;t connect the dots looking forward...</title>
+      <link>http://quote.enja.io/post/you-cant-connect-the-dots-looking-forward</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/a-css-object-is-a-repeating-visual-pattern</guid>
+      <guid>http://quote.enja.io/post/you-cant-connect-the-dots-looking-forward</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Basically, a CSS “object” is a repeating visual pattern, which can be abstracted into an independent snippet of HTML, CSS, and possibly JavaScript. Once created, an object can then be reused throughout a site.&lt;/p&gt;
+&lt;p&gt;￼You can&amp;rsquo;t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;- Sullivan, Nicole. &amp;ldquo;Object Oriented CSS&amp;rdquo; stubbornella / oocss. &lt;a href=&#34;https://github.com/stubbornella/oocss/wiki&#34;&gt;https://github.com/stubbornella/oocss/wiki&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;- Jobs, Steve. &amp;ldquo;Stanford Commencement Adress.&amp;rdquo; 12 June 2005. Speech.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;基本的にCSSにおいて、ある「オブジェクト」とは繰り返されるビジュアルパターンであり、HTMLやCSS、もしかするとJavaScriptで書かれた独立したスニペットとして抽象化できるものである。また一度生成したオブジェクトは サイト内で再利用できるものである。&lt;/p&gt;
+&lt;p&gt;￼先を読んで点と点をつなぐことはできません。後から振り返って初めてできるのです。それらの点は必ずどこかの未来でつながることを信じなければならないのです。&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>To me, performance is a feature...</title>
-      <link>http://localhost:1313/post/to-me-performance-is-a-feature</link>
+      <link>http://quote.enja.io/post/to-me-performance-is-a-feature</link>
       <pubDate>Wed, 12 Feb 2014 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://localhost:1313/post/to-me-performance-is-a-feature</guid>
+      <guid>http://quote.enja.io/post/to-me-performance-is-a-feature</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;To me, performance is a feature […].&lt;br /&gt;
 I think there&amp;rsquo;s also a lesson to be learned here about the competitive landscape of the public internet, where there are two kinds of websites: the quick and the dead.&lt;/p&gt;
