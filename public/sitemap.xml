@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/every-line-of-css-you-write-is-a-suggestion</loc>
+    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/programming-would-be-pretty-boring-if-everyone-agreed</loc>
+    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/there-are-only-two-hard-things-in-computer-science-cache-invalidation-and-naming-things</loc>
+    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/a-simple-syntax-doesnt-make-an-easy-language</loc>
+    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/a-set-of-psds-cant-encapsulate-the-entire-web</loc>
+    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/not-all-semantics-need-to-be-content-derived...</loc>
+    <lastmod>2014-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/simply-presenting-flat-image-comps...</loc>
+    <lastmod>2014-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/the-most-dangerous-thought-you-can-have...</loc>
+    <lastmod>2014-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/each-pattern-describes-a-problem...</loc>
+    <lastmod>2014-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/why-do-we-fall-sir...</loc>
+    <lastmod>2014-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/code-is-read-much-more-often-than</loc>
+    <lastmod>2014-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/there-are-risks-and-costs-to-a</loc>
+    <lastmod>2014-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/if-you-want-to-be-doing-the-same-things</loc>
+    <lastmod>2014-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/you-cant-connect-the-dots-looking-forward</loc>
+    <lastmod>2014-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/learning-the-internals-of-browser-operations-helps</loc>
+    <lastmod>2014-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/a-css-object-is-a-repeating-visual-pattern</loc>
+    <lastmod>2014-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/to-me-performance-is-a-feature</loc>
+    <lastmod>2014-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
