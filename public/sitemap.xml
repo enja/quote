@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>http://quote.enja.io/post/programming-would-be-pretty-boring-if-everyone-agreed</loc>
-    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://quote.enja.io/post/there-are-only-two-hard-things-in-computer-science-cache-invalidation-and-naming-things</loc>
     <lastmod>2015-02-10T00:00:00+00:00</lastmod>
   </url>
@@ -33,17 +28,17 @@
   </url>
   
   <url>
+    <loc>http://quote.enja.io/post/programming-would-be-pretty-boring-if-everyone-agreed</loc>
+    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://quote.enja.io/post/simply-presenting-flat-image-comps...</loc>
+    <lastmod>2014-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://quote.enja.io/post/the-most-dangerous-thought-you-can-have...</loc>
-    <lastmod>2014-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://quote.enja.io/post/each-pattern-describes-a-problem...</loc>
-    <lastmod>2014-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://quote.enja.io/post/not-all-semantics-need-to-be-content-derived...</loc>
     <lastmod>2014-02-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,27 +48,17 @@
   </url>
   
   <url>
-    <loc>http://quote.enja.io/post/simply-presenting-flat-image-comps...</loc>
+    <loc>http://quote.enja.io/post/not-all-semantics-need-to-be-content-derived...</loc>
+    <lastmod>2014-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://quote.enja.io/post/each-pattern-describes-a-problem...</loc>
     <lastmod>2014-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://quote.enja.io/post/a-css-object-is-a-repeating-visual-pattern</loc>
-    <lastmod>2014-02-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://quote.enja.io/post/there-are-risks-and-costs-to-a</loc>
-    <lastmod>2014-02-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://quote.enja.io/post/if-you-want-to-be-doing-the-same-things</loc>
-    <lastmod>2014-02-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://quote.enja.io/post/code-is-read-much-more-often-than</loc>
     <lastmod>2014-02-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -84,6 +69,21 @@
   
   <url>
     <loc>http://quote.enja.io/post/you-cant-connect-the-dots-looking-forward</loc>
+    <lastmod>2014-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://quote.enja.io/post/there-are-risks-and-costs-to-a</loc>
+    <lastmod>2014-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://quote.enja.io/post/code-is-read-much-more-often-than</loc>
+    <lastmod>2014-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://quote.enja.io/post/if-you-want-to-be-doing-the-same-things</loc>
     <lastmod>2014-02-13T00:00:00+00:00</lastmod>
   </url>
   

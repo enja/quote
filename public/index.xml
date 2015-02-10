@@ -8,24 +8,6 @@
     <updated>2015-02-10 00:00:00 &#43;0000 UTC</updated>
     
     <item>
-      <title>￼Programming would be pretty boring...</title>
-      <link>http://quote.enja.io/post/programming-would-be-pretty-boring-if-everyone-agreed</link>
-      <pubDate>Tue, 10 Feb 2015 00:00:00 UTC</pubDate>
-      <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/programming-would-be-pretty-boring-if-everyone-agreed</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;￼￼Programming would be pretty boring if everyone agreed.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;- Holowaychuk, TJ (tjholowaychuk). &amp;ldquo;programming would be pretty boring if everyone agreed&amp;rdquo;. 06 Jun 2013, 22:40 UTC. Tweet.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;すべての人が同意してしまったら、プログラミングはつまらないものになってしまうでしょう。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>￼There are only two hard things...</title>
       <link>http://quote.enja.io/post/there-are-only-two-hard-things-in-computer-science-cache-invalidation-and-naming-things</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 UTC</pubDate>
@@ -98,81 +80,20 @@
     </item>
     
     <item>
-      <title>The most dangerous thought you can have...</title>
-      <link>http://quote.enja.io/post/the-most-dangerous-thought-you-can-have...</link>
-      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
+      <title>￼Programming would be pretty boring...</title>
+      <link>http://quote.enja.io/post/programming-would-be-pretty-boring-if-everyone-agreed</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 UTC</pubDate>
       <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/the-most-dangerous-thought-you-can-have...</guid>
+      <guid>http://quote.enja.io/post/programming-would-be-pretty-boring-if-everyone-agreed</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;The most dangerous thought you can have as a creative person is to think you know what you&amp;rsquo;re doing.
-Learn tools, and use tools, but don&amp;rsquo;t accept tools. Always distrust them; always be alert for alternative ways of thinking.
-￼
-- Victor, Bret. &amp;ldquo;The Future of Programming.&amp;rdquo; DBX Conference. Fort Mason, San Francisco. 9 July 2013. Speech.&lt;/p&gt;
+&lt;p&gt;￼￼Programming would be pretty boring if everyone agreed.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;- Holowaychuk, TJ (tjholowaychuk). &amp;ldquo;programming would be pretty boring if everyone agreed&amp;rdquo;. 06 Jun 2013, 22:40 UTC. Tweet.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;想像的であり続けるために避けなければならないことは、自分がやっていることを知っていると思い込むことです。&lt;br /&gt;
-ツールを学び、ツールを使いこなす。しかし、ツールの全てを受け入れてはなりません。&lt;br /&gt;
-どんな時でも別の視点で考えるようにするべきです。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Each pattern describes a problem...</title>
-      <link>http://quote.enja.io/post/each-pattern-describes-a-problem...</link>
-      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
-      <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/each-pattern-describes-a-problem...</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Each pattern describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such way that you can use this solution a million times over, without ever doing it the same way twice.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;- Alexander, Christopher, Sara Ishikawa, and Murray Silverstein. A pattern language: towns, buildings, construction. New York: Oxford University Press, 1977. Print.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;パターンとはそれぞれ我々が生きている環境の中で何度も繰り返し発生する問題を説明するものであり、それらの問題に対するコアとなる解決を説明するものでもあります。コアとなる解決とはその解決方法を同じことを繰り返さず、数百万回でも利用できるものです。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Not all semantics need to be content-derived...</title>
-      <link>http://quote.enja.io/post/not-all-semantics-need-to-be-content-derived...</link>
-      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
-      <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/not-all-semantics-need-to-be-content-derived...</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;[…][N]ot all semantics need to be content-derived. Class names cannot be “unsemantic”. Whatever names are being used: they have meaning, they have purpose. Class name semantics can be different to those of HTML elements.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;- Gallagher, Nicolas. &amp;ldquo;About HTML semantics and front-end architecture&amp;rdquo; nicolasgallagher.com. &lt;a href=&#34;http://nicolasgallagher.com/about-html-semantics-front-end-architecture/&#34;&gt;http://nicolasgallagher.com/about-html-semantics-front-end-architecture/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;￼セマンティックがすべてコンテンツ派生である必要はない。クラス名に「セマンティックではない」状態はない。どんな名前が使われようと、それらには意味があり、目的がある。クラス名のセマンティック性はHTML要素のそれと異なることもありえる。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Why do we fall, sir...</title>
-      <link>http://quote.enja.io/post/why-do-we-fall-sir...</link>
-      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
-      <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/why-do-we-fall-sir...</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Why do we fall, sir?
-So that we can learn to pick ourselves up.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;- Batman Begins. Dir. Christopher Nolan. By Christopher Nolan and David S. Goyer. Prod. Larry J. Franco. Perf. Christian Bale, Michael Caine, Liam Neeson, and Katie Holmes. Warner Brothers, 2005.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;なぜ人は失敗するのでしょうか？&lt;br /&gt;
-それはそうすることでどう立ち直るかを学べるからです。&lt;/p&gt;
+&lt;p&gt;すべての人が同意してしまったら、プログラミングはつまらないものになってしまうでしょう。&lt;/p&gt;
 </description>
     </item>
     
@@ -197,6 +118,85 @@ So that we can learn to pick ourselves up.&lt;/p&gt;
     </item>
     
     <item>
+      <title>The most dangerous thought you can have...</title>
+      <link>http://quote.enja.io/post/the-most-dangerous-thought-you-can-have...</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://quote.enja.io/post/the-most-dangerous-thought-you-can-have...</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The most dangerous thought you can have as a creative person is to think you know what you&amp;rsquo;re doing.
+Learn tools, and use tools, but don&amp;rsquo;t accept tools. Always distrust them; always be alert for alternative ways of thinking.
+￼
+- Victor, Bret. &amp;ldquo;The Future of Programming.&amp;rdquo; DBX Conference. Fort Mason, San Francisco. 9 July 2013. Speech.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;想像的であり続けるために避けなければならないことは、自分がやっていることを知っていると思い込むことです。&lt;br /&gt;
+ツールを学び、ツールを使いこなす。しかし、ツールの全てを受け入れてはなりません。&lt;br /&gt;
+どんな時でも別の視点で考えるようにするべきです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why do we fall, sir...</title>
+      <link>http://quote.enja.io/post/why-do-we-fall-sir...</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://quote.enja.io/post/why-do-we-fall-sir...</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Why do we fall, sir?
+So that we can learn to pick ourselves up.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;- Batman Begins. Dir. Christopher Nolan. By Christopher Nolan and David S. Goyer. Prod. Larry J. Franco. Perf. Christian Bale, Michael Caine, Liam Neeson, and Katie Holmes. Warner Brothers, 2005.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;なぜ人は失敗するのでしょうか？&lt;br /&gt;
+それはそうすることでどう立ち直るかを学べるからです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Not all semantics need to be content-derived...</title>
+      <link>http://quote.enja.io/post/not-all-semantics-need-to-be-content-derived...</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://quote.enja.io/post/not-all-semantics-need-to-be-content-derived...</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;[…][N]ot all semantics need to be content-derived. Class names cannot be “unsemantic”. Whatever names are being used: they have meaning, they have purpose. Class name semantics can be different to those of HTML elements.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;- Gallagher, Nicolas. &amp;ldquo;About HTML semantics and front-end architecture&amp;rdquo; nicolasgallagher.com. &lt;a href=&#34;http://nicolasgallagher.com/about-html-semantics-front-end-architecture/&#34;&gt;http://nicolasgallagher.com/about-html-semantics-front-end-architecture/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;￼セマンティックがすべてコンテンツ派生である必要はない。クラス名に「セマンティックではない」状態はない。どんな名前が使われようと、それらには意味があり、目的がある。クラス名のセマンティック性はHTML要素のそれと異なることもありえる。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Each pattern describes a problem...</title>
+      <link>http://quote.enja.io/post/each-pattern-describes-a-problem...</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://quote.enja.io/post/each-pattern-describes-a-problem...</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Each pattern describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such way that you can use this solution a million times over, without ever doing it the same way twice.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;- Alexander, Christopher, Sara Ishikawa, and Murray Silverstein. A pattern language: towns, buildings, construction. New York: Oxford University Press, 1977. Print.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;パターンとはそれぞれ我々が生きている環境の中で何度も繰り返し発生する問題を説明するものであり、それらの問題に対するコアとなる解決を説明するものでもあります。コアとなる解決とはその解決方法を同じことを繰り返さず、数百万回でも利用できるものです。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Basically, a CSS object is a repeating visual pattern...</title>
       <link>http://quote.enja.io/post/a-css-object-is-a-repeating-visual-pattern</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
@@ -211,62 +211,6 @@ So that we can learn to pick ourselves up.&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;p&gt;基本的にCSSにおいて、ある「オブジェクト」とは繰り返されるビジュアルパターンであり、HTMLやCSS、もしかするとJavaScriptで書かれた独立したスニペットとして抽象化できるものである。また一度生成したオブジェクトは サイト内で再利用できるものである。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>There are risks and costs to a...</title>
-      <link>http://quote.enja.io/post/there-are-risks-and-costs-to-a</link>
-      <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
-      <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/there-are-risks-and-costs-to-a</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;There are risks and costs to a program of action, but they are far less than the long-range risks and costs of comfortable inaction.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;- &amp;ldquo;Times Call for Liberal Action, Says Kennedy.&amp;rdquo; Lodi News-Sentinel 13 May 1961: 2. Print.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;￼行動にはつねに危険や代償が伴う。しかしそれは、行動せずに楽を決めこんだ時の長期的な危険やコストと較べれば取るに足らないものだ。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>If you want to be doing the same things...</title>
-      <link>http://quote.enja.io/post/if-you-want-to-be-doing-the-same-things</link>
-      <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
-      <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/if-you-want-to-be-doing-the-same-things</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;￼If you want to be doing the same things for the next 10 years, you&amp;rsquo;re in the wrong job.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;- Holzschlag, Molly.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;次の10年間、同じことをしていたいと思うなら、この業界は向いていない。&lt;/p&gt;
-
-&lt;p&gt;￼&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Code is read much more often than...</title>
-      <link>http://quote.enja.io/post/code-is-read-much-more-often-than</link>
-      <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
-      <author>Yuya Saito</author>
-      <guid>http://quote.enja.io/post/code-is-read-much-more-often-than</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Code is read much more often than it is written, so plan accordingly.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;- Chen, Raymond. &amp;ldquo;Code is read much more often than it is written, so plan accordingly&amp;rdquo; The Old New Thing. &lt;a href=&#34;http://blogs.msdn.com/b/oldnewthing/archive/2007/04/06/2036150.aspx&#34;&gt;http://blogs.msdn.com/b/oldnewthing/archive/2007/04/06/2036150.aspx&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;￼コードは書く機会より読む機会の方が圧倒的に多い。だからこそ、しっかりと計画するべきだ。&lt;/p&gt;
 </description>
     </item>
     
@@ -303,6 +247,62 @@ So that we can learn to pick ourselves up.&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;p&gt;￼先を読んで点と点をつなぐことはできません。後から振り返って初めてできるのです。それらの点は必ずどこかの未来でつながることを信じなければならないのです。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>There are risks and costs to a...</title>
+      <link>http://quote.enja.io/post/there-are-risks-and-costs-to-a</link>
+      <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://quote.enja.io/post/there-are-risks-and-costs-to-a</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;There are risks and costs to a program of action, but they are far less than the long-range risks and costs of comfortable inaction.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;- &amp;ldquo;Times Call for Liberal Action, Says Kennedy.&amp;rdquo; Lodi News-Sentinel 13 May 1961: 2. Print.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;￼行動にはつねに危険や代償が伴う。しかしそれは、行動せずに楽を決めこんだ時の長期的な危険やコストと較べれば取るに足らないものだ。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code is read much more often than...</title>
+      <link>http://quote.enja.io/post/code-is-read-much-more-often-than</link>
+      <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://quote.enja.io/post/code-is-read-much-more-often-than</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Code is read much more often than it is written, so plan accordingly.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;- Chen, Raymond. &amp;ldquo;Code is read much more often than it is written, so plan accordingly&amp;rdquo; The Old New Thing. &lt;a href=&#34;http://blogs.msdn.com/b/oldnewthing/archive/2007/04/06/2036150.aspx&#34;&gt;http://blogs.msdn.com/b/oldnewthing/archive/2007/04/06/2036150.aspx&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;￼コードは書く機会より読む機会の方が圧倒的に多い。だからこそ、しっかりと計画するべきだ。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>If you want to be doing the same things...</title>
+      <link>http://quote.enja.io/post/if-you-want-to-be-doing-the-same-things</link>
+      <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
+      <author>Yuya Saito</author>
+      <guid>http://quote.enja.io/post/if-you-want-to-be-doing-the-same-things</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;￼If you want to be doing the same things for the next 10 years, you&amp;rsquo;re in the wrong job.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;- Holzschlag, Molly.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;次の10年間、同じことをしていたいと思うなら、この業界は向いていない。&lt;/p&gt;
+
+&lt;p&gt;￼&lt;/p&gt;
 </description>
     </item>
     
