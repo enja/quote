@@ -27,7 +27,7 @@
 
 
     
-    <link rel="stylesheet" href="http://localhost:1313/static/style/bundle.css">
+    <link rel="stylesheet" href="/static/style/bundle.css">
   </head>
   <body>
     <div class="stripe"></div>
@@ -59,10 +59,12 @@
               <a class="previous" title="Simply presenting flat image comps..." href="http://localhost:1313/post/simply-presenting-flat-image-comps...">← Simply presenting flat image comps... </a>
             
             
+              <a class="next" title="The most dangerous thought you can have..." href="http://localhost:1313/post/the-most-dangerous-thought-you-can-have...">The most dangerous thought you can have... →</a>
+            
           </nav>
 
           <div class="backtohome">
-            <a class="icon icon-home" href="http://localhost:1313/"></a>
+            <a class="icon icon-home" href="/"></a>
           </div>
 
         </div>
@@ -105,6 +107,9 @@
 </footer>
 
           </div>
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
 

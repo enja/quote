@@ -27,7 +27,7 @@
 
 
     
-    <link rel="stylesheet" href="http://localhost:1313/static/style/bundle.css">
+    <link rel="stylesheet" href="/static/style/bundle.css">
   </head>
   <body>
     <div class="stripe"></div>
@@ -50,15 +50,15 @@
 <hr />
 
 <p>(ウェブサイトを)平坦な画像のコンプで単純に表現するのはもはや十分とは言えない。
-レイアウトはアダプタブルでフレキシブルでコンテンツにフォーカスがおかれていく中で、それは単にスタート地点でしかなく、個別のコンポーネントにこそデザインのフォーカスであるようになっていくべきだろう。<br />
-だからこそ、デザインの基礎的な部分について正しく理解しておく必要がある。スタイルガイドはそれを行う手助けをしてくれる。</p>
+レイアウトがアダプタブルでフレキシブルでコンテンツにフォーカスがおかれていく中で、それは単にスタート地点でしかなく、個別のコンポーネントにこそデザインのフォーカスするようになっていくべきだろう。<br />
+だからこそ、デザインの基礎的な部分について正しく理解しておく必要があり、スタイルガイドはそれを行う手助けをしてくれる。</p>
 
 
           <hr>
 
           <nav class="pager p">
             
-              <a class="previous" title="The most dangerous thought you can have..." href="http://localhost:1313/post/the-most-dangerous-thought-you-can-have...">← The most dangerous thought you can have... </a>
+              <a class="previous" title="Code is read much more often than..." href="http://localhost:1313/post/code-is-read-much-more-often-than">← Code is read much more often than... </a>
             
             
               <a class="next" title="Not all semantics need to be content-derived..." href="http://localhost:1313/post/not-all-semantics-need-to-be-content-derived...">Not all semantics need to be content-derived... →</a>
@@ -66,7 +66,7 @@
           </nav>
 
           <div class="backtohome">
-            <a class="icon icon-home" href="http://localhost:1313/"></a>
+            <a class="icon icon-home" href="/"></a>
           </div>
 
         </div>
@@ -109,6 +109,9 @@
 </footer>
 
           </div>
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
 

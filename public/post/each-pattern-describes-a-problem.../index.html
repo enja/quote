@@ -27,7 +27,7 @@
 
 
     
-    <link rel="stylesheet" href="http://localhost:1313/static/style/bundle.css">
+    <link rel="stylesheet" href="/static/style/bundle.css">
   </head>
   <body>
     <div class="stripe"></div>
@@ -58,15 +58,15 @@
 
           <nav class="pager p">
             
-              <a class="previous" title="Why do we fall, sir..." href="http://localhost:1313/post/why-do-we-fall-sir...">← Why do we fall, sir... </a>
+              <a class="previous" title="The most dangerous thought you can have..." href="http://localhost:1313/post/the-most-dangerous-thought-you-can-have...">← The most dangerous thought you can have... </a>
             
             
-              <a class="next" title="The most dangerous thought you can have..." href="http://localhost:1313/post/the-most-dangerous-thought-you-can-have...">The most dangerous thought you can have... →</a>
+              <a class="next" title="Why do we fall, sir..." href="http://localhost:1313/post/why-do-we-fall-sir...">Why do we fall, sir... →</a>
             
           </nav>
 
           <div class="backtohome">
-            <a class="icon icon-home" href="http://localhost:1313/"></a>
+            <a class="icon icon-home" href="/"></a>
           </div>
 
         </div>
@@ -109,6 +109,9 @@
 </footer>
 
           </div>
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
 

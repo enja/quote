@@ -27,7 +27,7 @@
 
 
     
-    <link rel="stylesheet" href="http://localhost:1313/static/style/bundle.css">
+    <link rel="stylesheet" href="/static/style/bundle.css">
   </head>
   <body>
     <div class="stripe"></div>
@@ -49,22 +49,22 @@
 
 <hr />
 
-<p>基本的にCSSにおいて、 ある「オブジェクト」とは繰り返されるビジュアルパターンであり、HTMLやCSS、もしかするとJavaScriptで書かれた独立し たスニペットとして抽象化できるものである。また一度生成したオブジェクトは サイト内で再利用できるものである。</p>
+<p>基本的にCSSにおいて、ある「オブジェクト」とは繰り返されるビジュアルパターンであり、HTMLやCSS、もしかするとJavaScriptで書かれた独立したスニペットとして抽象化できるものである。また一度生成したオブジェクトは サイト内で再利用できるものである。</p>
 
 
           <hr>
 
           <nav class="pager p">
             
-              <a class="previous" title="Code is read much more often than..." href="http://localhost:1313/post/code-is-read-much-more-often-than">← Code is read much more often than... </a>
+              <a class="previous" title="You can&#39;t connect the dots looking forward..." href="http://localhost:1313/post/you-cant-connect-the-dots-looking-forward">← You can&#39;t connect the dots looking forward... </a>
             
             
-              <a class="next" title="Why do we fall, sir..." href="http://localhost:1313/post/why-do-we-fall-sir...">Why do we fall, sir... →</a>
+              <a class="next" title="If you want to be doing the same things..." href="http://localhost:1313/post/if-you-want-to-be-doing-the-same-things">If you want to be doing the same things... →</a>
             
           </nav>
 
           <div class="backtohome">
-            <a class="icon icon-home" href="http://localhost:1313/"></a>
+            <a class="icon icon-home" href="/"></a>
           </div>
 
         </div>
@@ -107,6 +107,9 @@
 </footer>
 
           </div>
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
 

@@ -27,7 +27,7 @@
 
 
     
-    <link rel="stylesheet" href="http://localhost:1313/static/style/bundle.css">
+    <link rel="stylesheet" href="/static/style/bundle.css">
   </head>
   <body>
     <div class="stripe"></div>
@@ -58,15 +58,15 @@
 
           <nav class="pager p">
             
-              <a class="previous" title="As a web developer, learning the internals of..." href="http://localhost:1313/post/learning-the-internals-of-browser-operations-helps">← As a web developer, learning the internals of... </a>
+              <a class="previous" title="Basically, a CSS object is a repeating visual pattern..." href="http://localhost:1313/post/a-css-object-is-a-repeating-visual-pattern">← Basically, a CSS object is a repeating visual pattern... </a>
             
             
-              <a class="next" title="Code is read much more often than..." href="http://localhost:1313/post/code-is-read-much-more-often-than">Code is read much more often than... →</a>
+              <a class="next" title="There are risks and costs to a..." href="http://localhost:1313/post/there-are-risks-and-costs-to-a">There are risks and costs to a... →</a>
             
           </nav>
 
           <div class="backtohome">
-            <a class="icon icon-home" href="http://localhost:1313/"></a>
+            <a class="icon icon-home" href="/"></a>
           </div>
 
         </div>
@@ -109,6 +109,9 @@
 </footer>
 
           </div>
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
 

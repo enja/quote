@@ -29,7 +29,7 @@
     
       <link href="http://localhost:1313/index.xml" rel="alternate" type="application/rss+xml" title="404 Page not found">
     
-    <link rel="stylesheet" href="http://localhost:1313/static/style/bundle.css">
+    <link rel="stylesheet" href="/static/style/bundle.css">
   </head>
   <body>
     <div class="stripe"></div>
@@ -37,7 +37,7 @@
 
       <header class="masthead">
   <div class="section-inner">
-    <h1 class="logo giga"><a href="http://localhost:1313/">en.ja Quote</a></h1>
+    <h1 class="logo giga"><a href="/">en.ja Quote</a></h1>
     
   </div>
 </header>
@@ -51,6 +51,9 @@
       </article>
 
         </div>
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
 
