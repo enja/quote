@@ -15,10 +15,6 @@ if [ $# -eq 1 ]
 fi
 git commit -m "$msg"
 
-(git subtree split --prefix public -b gh-pages)
-(git push -f origin gh-pages:gh-pages)
-(git branch -D gh-pages)
-
 # Push source and build repos.
 git push origin master
 git subtree push --prefix=public git@github.com:enja/quote.git gh-pages
