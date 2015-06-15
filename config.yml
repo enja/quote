@@ -1,0 +1,12 @@
+baseurl:    "http://quote.enja.io/"
+title:      "en.ja Quote"
+contentdir: "content"
+layoutdir:  "layouts"
+staticdir:  "static"
+publishdir: "_public"
+uglyUrls:   true
+metaDataFormat: "yaml"
+params:
+  description: "日本語訳したクォートのリマインダ用ログ"
+permalinks:
+  post: /:title/

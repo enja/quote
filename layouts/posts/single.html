@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {{ partial "meta.html" . }}
+  </head>
+  <body>
+    {{ partial "header.html" . }}
+    <div id="page" class="page page-single">
+      <article class="article-post">
+        <div class="section-inner">
+          <h1 class="title">{{ .Title }}</h1>
+          {{ partial "metadata.html" . }}
+          {{ .Content }}
+          <hr>
+          <nav class="pager p">
+            {{if .Next}}
+              <a class="previous" title="{{.Next.Title}}" href="{{.Next.Permalink}}">← {{.Next.Title}} </a>
+            {{end}}
+            {{if .Prev}}
+              <a class="next" title="{{.Prev.Title}}" href="{{.Prev.Permalink}}">{{.Prev.Title}} →</a>
+            {{end}}
+          </nav>
+          <div class="backtohome">
+            <a class="icon icon-home" href="/"></a>
+          </div>
+        </div>
+      </article>
+      <hr>
+      {{ partial "footer.html" . }}
+    </div>
+  </body>
+</html>

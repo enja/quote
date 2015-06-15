@@ -3,20 +3,7 @@
   "version": "0.0.2",
   "description": "日本語訳したクォートのリマインダ用ログ",
   "scripts": {
-    "build-js": "browserify _devel/script/main.js | uglifyjs -mc > static/static/script/bundle.js",
-    "build-css": "borschik -i _devel/style/main.css -o static/static/style/bundle.css",
-    "build-dev-js": "browserify _devel/script/main.js -dv",
-    "build-dev-css": "borschik -i _devel/style/main.css -o static/static/style/bundle.css -m false",
-    "watch-js": "watchify _devel/script/main.js -o static/static/script/bundle.js -dv",
-    "watch-css": "watchy -w _devel/style -- npm run build-css",
-    "watch": "npm run watch-css",
-    "start": "hugo server -s . -w & npm run watch & npm run sync",
-    "sync": "browser-sync start",
-    "pagekite": "pagekite.py 9000 true.pagekite.me",
-    "test": "tape test/*.js",
-    "build": "hugo",
-    "deploy": "_devel/bin/deploy.sh",
-    "write": "_devel/bin/write.js"
+    "start": "hugo server --watch"
   },
   "repository": {
     "type": "git",
@@ -32,26 +19,5 @@
   "bugs": {
     "url": "https://github.com/enja/quote/issues"
   },
-  "homepage": "http://quote.enja.io",
-  "dependencies": {
-    "borschik": "^1.3.2",
-    "browserify": "^8.1.3",
-    "browserify-shim": "^3.3.2",
-    "minimist": "^1.1.0",
-    "uglify-js": "^2.4.16"
-  },
-  "devDependencies": {
-    "browser-sync": "^2.0.0",
-    "tape": "^3.5.0",
-    "watchify": "^2.3.0",
-    "watchy": "^0.6.0"
-  },
-  "browserify": {
-    "transform": [
-      "browserify-shim"
-    ]
-  },
-  "optionalDependencies": {
-    "hacker-deps": "~0.1.x"
-  }
+  "homepage": "http://quote.enja.io"
 }
