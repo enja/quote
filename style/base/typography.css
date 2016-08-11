@@ -1,0 +1,200 @@
+/* ==========================================================================
+   Base Type
+   ========================================================================== */
+html {
+  font-size: 100%;
+}
+
+body {
+  word-wrap: break-word;
+  color: #5F6062;
+}
+
+/* ==========================================================================
+   Headings
+   ========================================================================== */
+h1, .h1, .alpha,
+h2, .h2, .beta,
+h3, .h3, .gamma,
+h4, .h4, .delta,
+h5, .h5, .epsilon,
+h6, .h6, .zeta {
+  font-weight: bold;
+  margin: 0;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+.h1,
+.alpha {
+  font-size: 3.75em;
+  line-height: 1;
+  margin-bottom: 0.5em;
+}
+
+h2,
+.h2,
+.beta {
+  font-size: 2.8125em;
+  line-height: 1.3333333333333333;
+  margin-bottom: 0.6666666666666666em;
+}
+
+h3,
+.h3,
+.gamma {
+  font-size: 1.875em;
+  line-height: 1;
+  margin-bottom: 1em;
+}
+
+h4,
+.h4,
+.delta {
+  font-size: 1.640625em;
+  line-height: 1.1428571428571428;
+  margin-bottom: 1.1428571428571428em;
+}
+h5,
+.h5,
+.epsilon {
+  font-size: 1.40625em;
+  line-height: 1.3333333333333333;
+  margin-bottom: 1.3333333333333333em;
+}
+h6,
+.h6,
+.zeta {
+  font-size: 1.25em;
+  line-height: 1.5;
+  margin-bottom: 1.5em;
+}
+
+small,
+.small {
+  font-size: 1em;
+}
+
+/* ==========================================================================
+   Paragraphs
+   ========================================================================== */
+p,
+.p {
+  font-size: 1.25em;
+  margin: 0 0 1.5em;
+  line-height: 1.5;
+}
+
+.bold,
+strong {
+  font-weight: bold;
+}
+
+/* ==========================================================================
+   Lists
+   ========================================================================== */
+dl,
+ol,
+ul {
+  font-size: 1.25em;
+  margin: 0 0 1.5em;
+  padding: 0;
+}
+dd,
+dt,
+li {
+  line-height: 1.5;
+  margin: 0;
+}
+ul {
+  list-style: square;
+}
+
+/* ==========================================================================
+   Hyphens
+   ========================================================================== */
+abbr,
+acronym,
+blockquote,
+code,
+dir,
+kbd,
+listing,
+plaintext,
+q,
+samp,
+tt,
+var,
+xmp,
+p {
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  -o-hyphens: none;
+  hyphens: none;
+}
+
+/* ==========================================================================
+   Code Blocks
+   ========================================================================== */
+pre code {
+  word-wrap: normal;
+  white-space: -moz-pre-wrap;
+  white-space: pre-wrap;
+}
+
+pre {
+  white-space: pre;
+}
+
+code {
+  white-space: pre;
+  font-family: monospace;
+}
+
+/* ==========================================================================
+   Abbreviations Markup
+   ========================================================================== */
+abbr[title]:hover {
+  cursor: help;
+}
+
+/* ==========================================================================
+   Blockquotes
+   ========================================================================== */
+blockquote {
+  border-left: 0.2em solid rgba(21,25,25,0.6);
+  padding-left: 0.5em;
+  margin: 0 0 1.55em;
+}
+
+/* ==========================================================================
+   Horizontal Line
+   ========================================================================== */
+hr {
+  display: block;
+  width: 14%;
+  margin: 40px auto 33px auto;;
+  border: 0;
+  border-top: 1px solid #dededc;
+}
+
+/* ==========================================================================
+   Misc.
+   ========================================================================== */
+.uppercase {
+  text-transform: uppercase;
+}
+.lowercase {
+  text-transform: lowercase;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+.smallcaps {
+  font-variant: small-caps;
+}
+.space {
+  margin-right: 4px;
+  margin-left: 4px;
+}
